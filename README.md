@@ -21,3 +21,8 @@ https://www.kaggle.com/sauravmaheshkar/auto-completion-using-n-gram-models
 A abordagem para gerar sugestões atráves de GPT-2 fez uso de algumas técnicas descritas no trabalho feito pelo Autor (Kayal, Arshabhi) disponível em:
 https://towardsdatascience.com/train-gpt-2-in-your-own-language-fc6ad4d60171
   
+Autor do trabalho deste repositório:
+Renan Fabiano Gomes Martins.
+
+Email:
+renan_martins@outlook.com
